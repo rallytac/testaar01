@@ -6,8 +6,7 @@
   <modelVersion>4.0.0</modelVersion>  
   <groupId>com.rallytac.testaar01</groupId>  
   <artifactId>testaar01</artifactId>
-  <version>1.9.0</version>
-  <packaging>aar</packaging>
+  <version>1.10.0</version>
   <name>My Test AAR Library</name>
   
 </project>
